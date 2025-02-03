@@ -175,7 +175,7 @@
         <div id="confirmationModal" class="modal">
             <div class="modal-content">
                 <img src="nope.jpeg" alt="Confirmation Image">
-                <p style="color: black;">Your Payment has been comfimed </p>
+                <p style="color: black;">Your Payment has been comfirmed</p>
             </div>
         </div>
         
